@@ -1,0 +1,25 @@
+{
+ "documents": [
+    {
+    "name": "Blood Report.pdf",
+    "path": "/tmp/freeplane-handbook-fullcircle-parts-1-15.pdf"
+    }
+
+ ],
+ "deliveryProtocol": "api",
+ "destinations": [
+  {
+   "to": "0015512265016",
+   "toName": "Billy Mayor Wilson",
+   "toCompanyName": "DB Pathology, Portland"
+  },
+  {
+   "to": "0015512265016",
+   "toName": "Wyne Taster",
+   "toCompanyName": "Car Four, Balwyn"
+  }
+],
+"sender": "rsk@outlook.com",
+"subject": "Reports for Billy"
+}
+
