@@ -1,5 +1,5 @@
 /*
-Copyright © 2022 PaperCut Software <support@papercut.com>
+Copyright © 2023 ACDI<seth.ingram@acd-inc.com>
 
 */
 package cmd
@@ -12,14 +12,9 @@ import (
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
-	Use:   "fax-connector",
-	Short: "A brief description of your application",
-	Long: `A longer description that spans multiple lines and likely contains
-examples and usage of using your application. For example:
-
-Cobra is a CLI library for Go that empowers applications.
-This application is a tool to generate the needed files
-to quickly create a Cobra application.`,
+	Use:   "acdi-fax-connector",
+	Short: "Example Fax Connector Application",
+	Long: `ACDI Fax Connector Example Application for Initial Development`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	// Run: func(cmd *cobra.Command, args []string) { },
