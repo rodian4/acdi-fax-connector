@@ -71,8 +71,8 @@ to quickly create a Cobra application.`,
 
 		log.Println("fax connector info list called")
 		fmt.Println(`{ "connectorInfo": {
-			"name": "fax Connector Sample Code",
-			"description": "PaperCut sample for Fax Connectors",
+			"name": "fax Connector ACDI Sample",
+			"description": "ACDI Sample Fax Connectors",
 			"version": "dev-local",
 			"capabilities": [
 			 {
